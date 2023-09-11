@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Netflix-clone-React
 
 This project is a Netflix clone app in React, using the TMDB Api, and firebase for the backend.
 
